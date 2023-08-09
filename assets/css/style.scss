@@ -1060,3 +1060,11 @@ body{
         }
     }
 }
+
+@media(max-width:1600px){
+    .header{
+        .header__wrapper{
+            width: 1240px;
+        }
+    }
+}

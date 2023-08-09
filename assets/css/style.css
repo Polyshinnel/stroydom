@@ -895,4 +895,10 @@ body {
 }
 .recall-block .recall-wrapper .recall-form .recall-form__submit .recall-form__submit-policy a {
   color: #0FD259;
+}
+
+@media (max-width: 1600px) {
+  .header .header__wrapper {
+    width: 1240px;
+  }
 }/*# sourceMappingURL=style.css.map */
